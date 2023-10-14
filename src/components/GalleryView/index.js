@@ -12,7 +12,6 @@ const GalleryView = ({galleries}) => {
     return (
 			<div>
                 <h2>{currGallery.name}</h2>
-				<h3>Hello From GalleryView</h3>
 			</div>
 		);
 }
