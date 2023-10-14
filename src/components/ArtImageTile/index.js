@@ -4,7 +4,7 @@ import './ArtImageTile.css'
 
 const ArtImage = ({art}) => {
 
-    console.log(art)
+    //console.log(art)
     const {galleryId} = useParams()
 
     return (

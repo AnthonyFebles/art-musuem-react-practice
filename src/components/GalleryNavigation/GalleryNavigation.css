@@ -2,3 +2,12 @@
     font-weight: bolder;
     color: green;
 }
+
+a {
+    padding: 10px 13px;
+        font-size: 26px;
+        text-decoration: none;
+        border-radius: 5px;
+        top: 0;
+        transition: all .4s;
+}
