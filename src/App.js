@@ -2,6 +2,7 @@ import harvardArt from "./data/harvardArt";
 import GalleryNavigation from "./components/GalleryNavigation";
 import GalleryView from "./components/GalleryView";
 import {ReactRouter, Route, Switch} from 'react-router-dom'
+import ArtImageTile from "./components/ArtImageTile"
 
 function App() {
   //console.log(harvardArt);
